@@ -5,7 +5,9 @@ This script uses the shodan API to search for ESP8266 devices on the internet so
 
 To know your API, enter the url https://account.shodan.io/
 
-1. Install the packages.
+1. Install the packages:
+```
    pip install termcolor
    pip install shodan
+```
 2. Start the script.
