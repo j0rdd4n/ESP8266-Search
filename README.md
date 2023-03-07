@@ -13,3 +13,6 @@ To know your API, enter the url https://account.shodan.io/
    pip install requests
 ```
 2. Start the script.
+```
+python3 Esp8266-search-SHODAN.py
+```
