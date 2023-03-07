@@ -7,9 +7,9 @@ To know your API, enter the url https://account.shodan.io/
 
 1. Install the packages:
 ```
-   pip install termcolor
-   pip install shodan 
-   pip install time 
+   pip install termcolor &&
+   pip install shodan &&
+   pip install time &&
    pip install requests
 ```
 2. Start the script.
