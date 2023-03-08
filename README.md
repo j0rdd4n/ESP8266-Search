@@ -5,7 +5,7 @@ This script uses the shodan API to search for ESP8266 devices on the internet so
 
 To know your API, enter the url https://account.shodan.io/
 
-***This script use python3***
+**This script use python3**
 
 ###### Instalation
 
